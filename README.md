@@ -5,11 +5,13 @@ Home: https://dftbplus.org
 
 Package license: LGPL-3.0-or-later
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dftbplus-tools-feedstock/blob/master/LICENSE.txt)
 
 Summary: DPTOOLS: Processing and converting data related to the DFTB+ package
 
+Development: https://github.com/dftbplus/dftbplus
 
+Documentation: https://dftbplus-recipes.readthedocs.io
 
 Current build status
 ====================
