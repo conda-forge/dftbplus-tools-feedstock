@@ -1,5 +1,5 @@
 {% set name = "dftbplus" %}
-{% set version = "23.1" %}
+{% set version = "24.1" %}
 
 package:
   name: {{ name|lower }}-tools
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/{{ name }}/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: e3dfc60f533438fcaac394ad41fff5a5e46a3ae94bfa1a5fd05f71240cf70345
+  sha256: 776d83779666e06bf2930c3b1665cdb8e7409b8003e33e0178fbae8b47f5e0b1
 
 build:
   number: 0
