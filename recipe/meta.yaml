@@ -4,7 +4,7 @@
 
 package:
   name: {{ name|lower }}-tools
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   # url: https://github.com/dftbplus/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
